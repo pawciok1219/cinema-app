@@ -1,0 +1,9 @@
+[
+    {
+        "filmId":2,
+        "tytul":"Pianista",
+        "czas_trwania":"180",
+        "plakat_url":"https://fwcdn.pl/fpo/22/25/32225/7519150.3.jpg"
+    }
+
+]
