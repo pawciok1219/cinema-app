@@ -1,1 +1,1 @@
-cinema_app based on the React framework.
+Cinema-app based on the React framework.
